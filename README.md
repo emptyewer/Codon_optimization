@@ -1,7 +1,10 @@
 Codon Optimization
 ==================
 
-In general (commercially) codon optimization for expression of a gene in a non-native expression system is performed by substituting the most-frequently used codons for the corresponding amino-acids. However, recent studies suggest there is more information encoded in the usage of rare and frequent codons. This encoded information is lost during such "blind" optimization procedures. Here, I have developed a new methodology to optimize a given DNA sequence such that its codon usage pattern in the expression system/organism closely matches that of the source organism.
+Generally, codon optimization for expression of a gene in a non-native expression system is achieved by inserting the most-frequently used codons for the corresponding amino-acids. However, recent studies suggest the existance of encoded information in how rare and frequenty used codons are distributed in the gene [1,2]. This encoded information is lost during such "blind" optimization procedures. Here, I have developed a new methodology to optimize a given DNA sequence such that its codon usage pattern in the expression system/organism closely matches that of the source organism.
+
+[1] Clarke T.F., Clark P.L. Rare codons cluster. PLoS ONE. 2008;3:e3412. 
+[2] Chartier M, Gaudreault F, Najmanovich R. Large-scale analysis of conserved rare codon clusters suggests an involvement in co-translational molecular recognition events. Bioinformatics 2012;28(11):1438-1445
 
 Usage
 =====
