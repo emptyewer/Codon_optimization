@@ -11,7 +11,7 @@ Usage
 =====
 Type
 `python codon-optimize.py -h` 
-to get help about usage
+for usage instructions
 
 Package Requirements
 ====================
