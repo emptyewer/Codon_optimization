@@ -13,8 +13,8 @@ __version__ = '0.1'
 # remove any of the copyright notices.
 #
 # -----------------------------------------------------------------------------------
-# Pairwise Protein-Interaction Calculator
-# Copyright (C) 2013 by Venkatramanan Krishnamani <venky.krishna@me.com>
+# Codon Optimization
+# Copyright (C) 2014 by Venkatramanan Krishnamani <venky.krishna@me.com>
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy of this
 # software and associated documentation files (the "Software"), to deal in the Software
